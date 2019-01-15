@@ -1262,6 +1262,7 @@ mongoose-legacy-pluralize@1.0.2:
 mongoose@^5.4.3:
   version "5.4.3"
   resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-5.4.3.tgz#9cbc689ca0c529c2d7dd5a84dcfbc9b041084367"
+  integrity sha512-zhfypQm63CPYHi43O/3lTcEPVucY3h6CqONbzreMKZIEXtwgkB9HCm4wn441Z9/CpM94G6/NA3wcaRb0N2kPYQ==
   dependencies:
     async "2.6.1"
     bson "~1.1.0"
